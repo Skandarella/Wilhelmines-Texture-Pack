@@ -17,4 +17,3 @@ Update 1.1:
 -Changed Obsidian Textures
 -Updated Farming Support
 
-exture Pack) in your minetest/textures/ folder and choose the Texture Pack ingame in the Content Menu.
