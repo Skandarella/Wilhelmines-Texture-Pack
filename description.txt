@@ -1,4 +1,4 @@
-Wilhelmines Texture Pack
+Wilhelmines Texture Pack – Inspired by the colors of Nature!
 
 A new Texture Pack for the lovers of natural colors and landscapes.
 
@@ -9,7 +9,19 @@ A new Texture Pack for the lovers of natural colors and landscapes.
 - Xocean
 -Farming
 -Nether
+-Spears
+-Bows
+-3D Armor
 
-Have FUN! :D
+Update 1.2:
 
-Installation: Place the folder (Wilhelmines Texture Pack) in your minetest/textures/ folder and choose the Texture Pack ingame in the Content Menu.
+-Added Spears Support
+-Added Bows Support
+-Added 3D Armor Support
+-Added textures for Default Tools
+
+Update 1.1:
+
+-Added Ethereal Support
+-Changed Obsidian Textures
+-Updated Farming Support
